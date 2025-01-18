@@ -1,0 +1,11 @@
+C:\Users\coder\source\repos\child-forms\bin\Debug\child-forms.exe.config
+C:\Users\coder\source\repos\child-forms\bin\Debug\child-forms.exe
+C:\Users\coder\source\repos\child-forms\bin\Debug\child-forms.pdb
+C:\Users\coder\source\repos\child-forms\obj\Debug\child-forms.csproj.AssemblyReference.cache
+C:\Users\coder\source\repos\child-forms\obj\Debug\child_forms.Form1.resources
+C:\Users\coder\source\repos\child-forms\obj\Debug\child_forms.Form2.resources
+C:\Users\coder\source\repos\child-forms\obj\Debug\child_forms.Properties.Resources.resources
+C:\Users\coder\source\repos\child-forms\obj\Debug\child-forms.csproj.GenerateResource.cache
+C:\Users\coder\source\repos\child-forms\obj\Debug\child-forms.csproj.CoreCompileInputs.cache
+C:\Users\coder\source\repos\child-forms\obj\Debug\child-forms.exe
+C:\Users\coder\source\repos\child-forms\obj\Debug\child-forms.pdb
